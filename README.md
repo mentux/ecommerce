@@ -17,3 +17,4 @@ Implementação de um sistema de e-commerce com Laravel
 - [GIT para Iniciantes](https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
 - [Laravel para Iniciantes](https://www.youtube.com/playlist?list=PLInBAd9OZCzylabwvLeJIa9gxbS7MmzNY)
 - [HTML e CSS para Iniciantes](https://www.youtube.com/playlist?list=PLInBAd9OZCzydDFvm06EgbPXYylGVcyIL) 
+- [Composer - Primeiros Passos](https://www.youtube.com/watch?v=gXQZlrbzesc)
