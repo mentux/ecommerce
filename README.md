@@ -1,5 +1,7 @@
 # ecommerce
-Implementação de um sistema de e-commerce com Laravel
+Implementação de um sistema de e-commerce com Laravel.
+
+Dê uma olhada na [WIKI](https://github.com/mentux/ecommerce/wiki) do projeto.
 
 ## Requisitos para trabalhar com Laravel
 - PHP >= 5.5.9
