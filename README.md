@@ -18,3 +18,4 @@ Implementação de um sistema de e-commerce com Laravel
 - [Laravel para Iniciantes](https://www.youtube.com/playlist?list=PLInBAd9OZCzylabwvLeJIa9gxbS7MmzNY)
 - [HTML e CSS para Iniciantes](https://www.youtube.com/playlist?list=PLInBAd9OZCzydDFvm06EgbPXYylGVcyIL) 
 - [Composer - Primeiros Passos](https://www.youtube.com/watch?v=gXQZlrbzesc)
+- [Instalando Composer no Windows](https://www.youtube.com/watch?v=Bz5I5ITB55I)
